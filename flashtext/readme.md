@@ -155,16 +155,23 @@ FT campaigns are user friendly, customers promote their business using our long/
 
   <tr>
  <td>
- <img src="images/client-payment.png" alt="client login" width="200" height="200"/>
+ <img src="images/client-payment.png" alt="client payments" width="200" height="200"/>
  </td>
  <td>
- <img src="images/api-agents.png" alt="client dashboard" width="200" height="200"/>
+ <img src="images/api-agents.png" alt="api agents" width="200" height="200"/>
  </td>
   <td>
- <img src="images/admin.png" alt="client account" width="200" height="200"/>
+ <img src="images/admin.png" alt="admin" width="200" height="200"/>
  </td>
  <td>
- <img src="images/members.png" alt="Buy number" width="200" height="200"/>
+ <img src="images/members.png" alt="members" width="200" height="200"/>
  </td>
+ </tr>
+
+ <tr>
+ <td colspan="4">
+ <img src="images/home.png" alt="Home" width="200" height="200"/>
+ </td>
+ 
  </tr>
  </table>
