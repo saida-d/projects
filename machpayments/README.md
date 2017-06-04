@@ -1,12 +1,12 @@
-<h1>Project Name : Flashtext (FT) </h1><br>
+<h1>Project Name : Mach Payment Gateway (MPG) </h1><br>
 <table class="table table-striped">
 <tr>
 <td>
-URL : https://www.flash-text.com 
+URL : http://machpayments.m-tutr.com/agent/login 
 </td>
 
 <td>
- FT API Documentation (For third party integration) : <a href="https://github.com/saidasoft/v-dragon/blob/master/API-Document_FlashText.docx">Click here</a>
+ MPG Documentation (For third party integration) : <a href="https://github.com/saidasoft/v-dragon/blob/master/API-Document_MPayments.docx">Click here</a>
 </td>
 </tr>
 </table>
