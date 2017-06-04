@@ -140,10 +140,13 @@ FT campaigns are user friendly, customers promote their business using our long/
  <table>
  <tr>
  <td>
- <img src="images/client-login.png" alt="client login" width="300" height="300"/>
+ <img src="images/client-login.png" alt="client login" width="200" height="200"/>
  </td>
  <td>
- <img src="images/client-dashboard.png" alt="client login" width="300" height="300"/>
+ <img src="images/client-dashboard.png" alt="client dashboard" width="200" height="200"/>
+ </td>
+  <td>
+ <img src="images/client-account.png" alt="client account" width="200" height="200"/>
  </td>
  </tr>
  </table>
