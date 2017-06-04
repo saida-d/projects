@@ -17,10 +17,11 @@ FT campaigns are user friendly, customers promote their business using our long/
 
 <h3>Major Modules</h3>
 <table class="table table-striped" width="100%">
-<th>
+<tr>
  <td>Client Portal</td>
  <td>Admin Portal</td>
-</th>
+</tr>
+
 <tr>
 <td style="vertical-align:top">
  
@@ -43,9 +44,7 @@ FT campaigns are user friendly, customers promote their business using our long/
  <li>Credit threshold </li>
 </ul>
 </td>
-</tr>
-
-<tr>
+ 
 <td>
 <ul>
  <li>Users</li>
