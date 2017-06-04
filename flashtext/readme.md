@@ -43,10 +43,10 @@ FT campaigns are user friendly, customers promote their business using our long/
  <li>Credit threshold </li>
 </ul>
 </td>
+</tr>
 
-
-
-<td style="vertical-align:top">
+<tr>
+<td>
 <ul>
  <li>Users</li>
  <li>User Groups</li>
