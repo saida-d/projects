@@ -16,10 +16,14 @@ FT campaigns are user friendly, customers promote their business using our long/
 </ul>
 
 <h3>Major Modules</h3>
-<table class="table table-striped">
+<table class="table table-striped" width="100%">
+<tr>
+ <td>Client Portal</td>
+ <td>Admin Portal</td>
+</tr>
 <tr>
 <td>
-<strong> Client Portal </strong>
+ 
 <ul>
  <li>SMS Campaign</li>
  <li>Schedule SMS Campaign</li>
@@ -43,7 +47,7 @@ FT campaigns are user friendly, customers promote their business using our long/
 
 
 <td>
-<strong> Admin Portal </strong>
+ 
 <ul>
  <li>SMS Campaign</li>
  <li>Schedule SMS Campaign</li>
@@ -66,3 +70,4 @@ FT campaigns are user friendly, customers promote their business using our long/
 </tr>
 </table>
 
+<a href="" class="btn btn-primary">API Documentation</a>
