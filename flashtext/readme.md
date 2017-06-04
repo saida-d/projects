@@ -14,3 +14,25 @@ URL : https://www.flash-text.com <br>
 FT campaigns are user friendly, customers promote their business using our long/short code , sender id / virtual number features. 
 </li>
 </ul>
+
+<h3>Major Modules</h3>
+<strong> Client Portal </strong>
+<ul>
+ <li>SMS Campaign</li>
+ <li>Schedule SMS Campaign</li>
+ <li>Campaign by Groups</li>
+ <li>Import Contacts by CSV</li>
+ <li>Contact Groups</li>
+ <li>Traffic Reports</li>
+ <li>Reports by Month/Yearly</li>
+ <li>Buy Caller Number</li>
+ <li>Sender ID/ Masking </li>
+ <li>Credit/Debit Cards Payments</li>
+ <li>2 Factor Verification</li>
+ <li>Transfer Wallet funds</li>
+ <li>Wallet Funds</li>
+ <li>Invoicing</li>
+ <li>Profile Management</li>
+ <li>Credit threshold </li>
+</ul>
+
