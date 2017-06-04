@@ -70,4 +70,4 @@ FT campaigns are user friendly, customers promote their business using our long/
 </tr>
 </table>
 
-<a href="" class="btn btn-primary">API Documentation</a>
+<a href="" class="btn btn-primary first-in-line">API Documentation</a>
