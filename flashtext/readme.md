@@ -15,7 +15,7 @@ FT campaigns are user friendly, customers promote their business using our long/
 </li>
 </ul>
 
-<h3>Major Modules</h3>
+<h3>Major Modules By : </h3>
 <table class="table table-striped" width="100%">
 <tr>
  <td>Client Portal</td>
