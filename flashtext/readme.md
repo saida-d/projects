@@ -17,12 +17,12 @@ FT campaigns are user friendly, customers promote their business using our long/
 
 <h3>Major Modules</h3>
 <table class="table table-striped" width="100%">
-<tr>
+<th>
  <td>Client Portal</td>
  <td>Admin Portal</td>
-</tr>
+</th>
 <tr>
-<td>
+<td style="vertical-align:top">
  
 <ul>
  <li>SMS Campaign</li>
@@ -46,8 +46,7 @@ FT campaigns are user friendly, customers promote their business using our long/
 
 
 
-<td>
- 
+<td style="vertical-align:top">
 <ul>
  <li>Users</li>
  <li>User Groups</li>
