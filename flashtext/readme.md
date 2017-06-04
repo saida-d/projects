@@ -1,5 +1,15 @@
-<h1>Project Name : Flashtext (FT) </h1><b1>
-URL : https://www.flash-text.com <br>
+<h1>Project Name : Flashtext (FT) </h1><br>
+<table class="table table-striped">
+<tr>
+<td>
+URL : https://www.flash-text.com 
+</td>
+
+<td>
+ FT API Documentation (For third party integration) : <a href="https://github.com/saidasoft/v-dragon/blob/master/API-Document_FlashText.docx">Click here</a>
+</td>
+</tr>
+</table>
 
 <h3>Description :</h3>
 <u>
@@ -125,5 +135,4 @@ FT campaigns are user friendly, customers promote their business using our long/
 </td>
 </tr>
 </table>
-
-<button class="btn btn-primary first-in-line">API Documentation</button>
+ 
