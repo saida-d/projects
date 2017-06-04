@@ -167,11 +167,5 @@ FT campaigns are user friendly, customers promote their business using our long/
  <img src="images/members.png" alt="members" width="200" height="200"/>
  </td>
  </tr>
-
- <tr>
- <td colspan="4">
- <img src="images/home.png" alt="Home" width="200" height="200"/>
- </td>
  
- </tr>
  </table>
