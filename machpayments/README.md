@@ -2,7 +2,7 @@
 <table class="table table-striped">
 <tr>
 <td>
-URL : http://machpayments.m-tutr.com/agent/login 
+URL : http://machpayments.m-tutr.com/home 
 </td>
 
 <td>
