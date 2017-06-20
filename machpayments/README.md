@@ -21,7 +21,7 @@ and developed by me(Mr.Saida.D). </li>
 <li>MPG charges are very compitative in industry, we are offering different pricing to different country (in ASIA region).</li>
 <li>MPG accepts online payments through debit/credit cards like VISA/Master, JCB, American Express,Paypal etc  </li>
 <li>Process your payments using MPG is straight forward (in 3 easy steps).
-    <ul>
+    <ul style="margin:0px 0px 0px 20px">
 	 <li>Register and Verify Account</li>
 	 <li>Integrate API/Form Widget</li>
 	 <li>Get Response (Success/failed)- Done</li>
