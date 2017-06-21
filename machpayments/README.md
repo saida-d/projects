@@ -20,12 +20,12 @@ and developed by me. </li>
 <li>MPG offers flexible (development tools) APIs/FORM widgets to integrate vendor/consumer's shopping cart applications. </li>
 <li>MPG charges are very compitative in industry, we are offering different pricing to different country (in ASIA region).</li>
 <li>MPG accepts online payments through debit/credit cards like VISA/Master, JCB, American Express,Paypal etc  </li>
-<li>Process your payments using MPG is straight forward (in 3 easy steps).
+<li>Process your payments using MPG is straight forward (in 3 easy steps).<br>
     <table>
 	<tr>
-	 <td>Register and Verify Account => </td>
-	 <td>Integrate API/Form Widget => </td>
-	 <td>Get Response (Success/failed)- Done </td>
+	 <td>1. Register and Verify Account => </td>
+	 <td>2. Integrate API/Form Widget => </td>
+	 <td>3. Get Response (Success/failed)- Done </td>
 	 </tr>
 	</table>
 </li>
