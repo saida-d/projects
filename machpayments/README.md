@@ -30,17 +30,15 @@ and developed by me. </li>
 <li> Get MPG payouts using Bank Wire Transfers, upon withdraw requests (Monthly/Weekly).
 Using client portal vendor/consumer can monitor all business transactions including withdraw requests.</li>
 <li>
-<li>
  MPG also offers solid reports on your transactions.
 </li>
-
  
 </ul>
 
 <h3>Major Modules By : </h3>
 <table class="table table-striped" width="100%">
 <tr>
- <td>Client Portal</td>
+ <td>Agent/Vendor Portal</td>
  <td>Admin Portal</td>
 </tr>
 
@@ -48,22 +46,19 @@ Using client portal vendor/consumer can monitor all business transactions includ
 <td style="vertical-align:top">
  
 <ul>
- <li>SMS Campaign</li>
- <li>Schedule SMS Campaign</li>
- <li>Campaign by Groups</li>
- <li>Import Contacts by CSV</li>
- <li>Contact Groups</li>
+ <li>Login/ Dashboard</li>
+
+ <li>API Key</li>
+ <li>Transactions Module</li>
+ <li>Latest Transactions</li>
+ <li>Reports </li>
+ <li>Withdraw Modules</li>
  <li>Traffic Reports</li>
- <li>Reports by Month/Yearly</li>
- <li>Buy Caller Number</li>
- <li>Sender ID/ Masking </li>
- <li>Credit/Debit Cards Payments</li>
- <li>2 Factor Verification</li>
- <li>Transfer Wallet funds</li>
- <li>Wallet Funds</li>
- <li>Invoicing</li>
- <li>Profile Management</li>
- <li>Credit threshold </li>
+ <li>API Monitoring by Calls</li>
+ <li>Media Module (For supporting documents)</li>
+ <li>Test Mode/Live Mode</li>
+  <li>Profile/Password Module</li>
+ 
 </ul>
 </td>
  
