@@ -13,19 +13,21 @@ URL : http://machpayments.m-tutr.com/home
 
 <h3>Description :</h3>
 <u>
-<li>MPG (Machpayment Gateway) is a inhouse product, the whole concept was design 
-and developed by me(Mr.Saida.D). </li>
+<li>MPG (Machpayment Gateway) is a inhouse product, the whole concept was initiated/design 
+and developed by me. </li>
 
-<li>Using MPG process vendors/consumer's payments through online .</li>
-<li>MPG offers flexible APIs/FORM widgets to integrate vendor/consumer's Shopping cart applications </li>
+<li>Using MPG vendors/consumer's can process payments through online .</li>
+<li>MPG offers flexible (development tools) APIs/FORM widgets to integrate vendor/consumer's shopping cart applications. </li>
 <li>MPG charges are very compitative in industry, we are offering different pricing to different country (in ASIA region).</li>
 <li>MPG accepts online payments through debit/credit cards like VISA/Master, JCB, American Express,Paypal etc  </li>
 <li>Process your payments using MPG is straight forward (in 3 easy steps).
-    <ul style="margin:0px 0px 0px 20px">
-	 <li>Register and Verify Account</li>
-	 <li>Integrate API/Form Widget</li>
-	 <li>Get Response (Success/failed)- Done</li>
-	</ul>
+    <table>
+	<tr>
+	 <td>Register and Verify Account => </td>
+	 <td>Integrate API/Form Widget => </td>
+	 <td>Get Response (Success/failed)- Done </td>
+	 </tr>
+	</table>
 </li>
 <li> Get MPG payouts using Bank Wire Transfers, upon withdraw requests (Monthly/Weekly).
 Using client portal vendor/consumer can monitor all business transactions including withdraw requests.</li>
