@@ -48,7 +48,7 @@ Using client portal vendor/consumer can monitor all business transactions includ
 <ul>
  <li>Login/ Dashboard</li>
 
- <li>API Key</li>
+ <li>API Key (Gen/Regen)</li>
  <li>Transactions Module</li>
  <li>Latest Transactions</li>
  <li>Reports </li>
@@ -65,45 +65,60 @@ Using client portal vendor/consumer can monitor all business transactions includ
 <td>
 <ul>
  <li>Users</li>
- <li>User Groups</li>
- <li>Members (Add/Edit/Delete), All Members/Details Logs </li>
- <li>Blocklist/Whitelist Members</li>
- <li>API Agents</li>
- <li>Campaigns </li>
- <li>Payments</li>
- <li>
-   Wallet Funds
+ <li>User Groups/Permissions</li>
+ <li>Agents (Add/Edit/Delete)
    <ul>
-   <li>Transactions</li>
-   <li>Transaction by Member</li>
-   <li>Refund Funds</li>
-   <li>Transfer/Deposit Funds</li>
-   <li>Rollback Funds</li>
-   <li>Free Credit Requests</li>
+   <li> All Agents/Details Logs </li>
+   <li> Verify Account/Attachments </li>
+   <li> Assign Gateway </li>
+   <li> Generate API by Agent </li>
+   <li> Block/Unblock Agent </li>
+    
+   </ul>
+ </li>
+ <li>Agent Transaction rates</li>
+ <li>API Documentation/ By Agent </li>
+ <li>Transactions 
+    <ul>
+	<li>All Transactions</li>
+	<li>Transaction by Agent</li>
+	</ul>
+ </li>
+ <li>
+   Withdraws Requests
+   <ul>
+   <li>Process/Decline Agent Requests</li>
+   <li>Update Withdraw Details by Agents</li>
+   <li>Notification/Alerts on Withdraw Requests</li>
+   </ul>
+ 
+ </li>
+ <li>Payment Gateway Settings</li>
+ <li>
+   System Tools
+   <ul>
+   <li>Update Currencies</li>
+   <li>Update Countries</li>
+   <li>Update Timezones</li>
    </ul>
  </li>
  <li>
-   Caller Numbers
+   Reports
    <ul>
-   <li>Assign Caller Number</li>
-   <li>Block Caller Number</li>
+   <li>Transaction Reports</li>
+   <li>Agent/Registry Reports</li>
+   <li>API Reports</li>
+   <li>Profit(%) Reports</li>
    </ul>
  </li>
  <li>
-   Sender ID/Masking
+   Site Management
    <ul>
-   <li>Approve/Terminate Sender ID</li>
-   <li>Re-Approve Sender ID</li>
+   <li>Metadata</li>
+   <li>Settings</li>
    </ul>
  </li>
- <li>SMS History (Reports)</li>
- <li>
-   Promotions/Offers
-   <ul>
-   <li>Sed Email Campaign </li>
-   <li>Send SMS Campaign</li>
-   </ul>
- </li>
+  
  <li>
    Notifications
    <ul>
@@ -112,30 +127,7 @@ Using client portal vendor/consumer can monitor all business transactions includ
    </ul>
  </li>
  <li>Enquires</li>
- <li>Geo Visitors</li>
- <li>
-   Master Account
-   <ul>
-   <li>Caller Number Lookup</li>
-   <li>Service Utility</li>
-   </ul>
- </li>
- <li>Mini CMS</li>
- <li>
-   Settings
-   <ul>
-   <li>App/Site Settings</li>
-   <li>Payment Gateway</li>
-   <li>SMS/VoIP Gateway</li>
-   <li>Caller Numbers</li>
-   <li>SMS Pricing</li>
-   <li>Agent/Corporate SMS Pricing</li>
-   <li>Account Classes</li>
-   <li>Currency Settings</li>
-   <li>Metadata Settings</li>
-
-   </ul>
- </li>
+   
  <li>Smart Notifications/Alerts</li>
  <li>Cron/Scheduling Jobs</li>
 </ul>
