@@ -2,11 +2,12 @@
 <table class="table table-striped">
 <tr>
 <td>
-URL : Special Access Only (Restricted by PetroleumBrunei)
+URL : <a href="http://www.petroleumbrunei.com.bn/etenderuserguide.pdf"> Client Portal </a>
+
 </td>
 
 <td>
-   Details about <a href="http://www.petroleumbrunei.com.bn/etenderuserguide.pdf"> Client Portal </a>
+   Special Access Only (Restricted by PetroleumBrunei)
 </td>
 </tr>
 </table>
