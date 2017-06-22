@@ -1,12 +1,12 @@
 # Projects
 Latest works in details, please click on the links followed by project.
 
-<table>
+<table class="table table-striped">
  <tr>
- <td><h5>S.No</h5></td>
- <td><h5>Project Title</h5></td>
- <td><h5>Project Description</h5></td>
- <td><h5>Remarks</h5></td>
+ <td><h4>S.No</h4></td>
+ <td><h4>Project Title</h4></td>
+ <td><h4>Project Description</h4></td>
+ <td><h4>Remarks</h4></td>
  
  </tr>
  
