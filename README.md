@@ -26,7 +26,7 @@ Latest works in details, please click on the links followed by project.
  
  <tr>
  <td>3</td>
- <td>CRMDesk - For office management</td>
+ <td>CRMDesk - For Business Management</td>
  <td><a href="https://github.com/saidasoft/projects/tree/master/crmdesk">Click here for details</a></td>
  <td>Intranet access (System setup will be installed/configured in client's local network/infrastructure)</td>
  </tr>
