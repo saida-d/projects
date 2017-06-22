@@ -1,34 +1,43 @@
-<h1>Project Name : CRDDesk </h1><br>
+<h1>Project Name : CRMDesk - For Business Management</h1><br>
 <table class="table table-striped">
 <tr>
 <td>
-URL : Intranet
+URL : Intranet (Using by multiple clients)
 </td>
 
 <td>
- FT API Documentation (For third party integration) : <a href="https://github.com/saidasoft/v-dragon/blob/master/API-Document_FlashText.docx">Click here</a>
+   System will be installed/configured in client's local network/infrastructure. 
 </td>
 </tr>
 </table>
 
 <h3>Description :</h3>
 <u>
-<li>FT Is a bulksms / sms marketing product, developed in house. </li>
+<li>CRMDesk in a inhouse product, launched for Business and customer management services. </li>
 
-<li>Using FT customers can improve/expand their business globally.</li>
-<li>Using FT customers can send sms/campaigns anywhere in the world.   </li>
-<li>FT offers a client portal to campaign/promote customer’s business by pay as you go policy. </li>
-<li>FT also provides corporate services to integrate with third party applications using our RESTful API.</li>
-<li>FT accepts payments by credit/debit cards through online. Also FT able to provide credit transfer facility, by monthly invoicing. Here all activities are controlled by FT administrator.</li>
+<li>CRMDesk divived into two 1. Admin Application, 2. Customer Application  .</li>
+<li>Using CRMDesk can manage all business customers</li>
+<li>CRMDesk offers invoicing module to generate/regenerate and mail to respective customer. </li>
+<li>CRMDesk offers online/offline facility to accepts customer payments </li>
+<li>It also manages outstanding/pending , partial pending payments with details, followed by customer.</li>
+<li>CRMDesk offers expense module to monitor all office/biz outgoing payments.</li>
+<li>It also manages all income cash flow, outgoing cash flow in detailed reports</li>
+<li>If there is any pending payments, CRMDesk keep reminds about it.</li>
+<li>CRMDesk offers automation module for invoicing/alerts.</li>
+<li>It also offers Quotes module to issue quotations for your customers</li>
+<li>CRMDesk offers product/services module to describe about your business entities. </li>
+<li>Here you can enter your bank/accounts details to monitor & transfer cash flow.</li>
+<li>CRMDesk also offers activity log module for audit purpose.</li>
+
 <li>
-FT campaigns are user friendly, customers promote their business using our long/short code , sender id / virtual number features. 
+ CRMDesk allows you to generate APIs for thrid party sharings.
 </li>
 </ul>
 
 <h3>Major Modules By : </h3>
 <table class="table table-striped" width="100%">
 <tr>
- <td>Client Portal</td>
+ <td>Customer Portal</td>
  <td>Admin Portal</td>
 </tr>
 
@@ -36,22 +45,13 @@ FT campaigns are user friendly, customers promote their business using our long/
 <td style="vertical-align:top">
  
 <ul>
- <li>SMS Campaign</li>
- <li>Schedule SMS Campaign</li>
- <li>Campaign by Groups</li>
- <li>Import Contacts by CSV</li>
- <li>Contact Groups</li>
- <li>Traffic Reports</li>
- <li>Reports by Month/Yearly</li>
- <li>Buy Caller Number</li>
- <li>Sender ID/ Masking </li>
- <li>Credit/Debit Cards Payments</li>
- <li>2 Factor Verification</li>
- <li>Transfer Wallet funds</li>
- <li>Wallet Funds</li>
- <li>Invoicing</li>
- <li>Profile Management</li>
- <li>Credit threshold </li>
+ <li>Login Module</li>
+ <li>Invoicing Module</li>
+ <li>Online Payments (Credit/Debit Cards, Paypal)</li>
+ <li>PDF,CSV Export facility</li>
+ <li>Reports</li>
+ <li>Profile/Password Management</li>
+ <li>Notifications/Alerts</li>
 </ul>
 </td>
  
@@ -59,78 +59,89 @@ FT campaigns are user friendly, customers promote their business using our long/
 <ul>
  <li>Users</li>
  <li>User Groups</li>
- <li>Members (Add/Edit/Delete), All Members/Details Logs </li>
- <li>Blocklist/Whitelist Members</li>
- <li>API Agents</li>
- <li>Campaigns </li>
- <li>Payments</li>
  <li>
-   Wallet Funds
+   Customers (Add/Edit/Delete), All Customers/Details Logs 
+    <ul>
+	 <li>Activate/Deactivate Customer</li>
+	 <li>Assigning Group/Login Credentials</li>
+	 <li>Monitoring Invoices</li>
+	 <li>Search, Export/Import Customers</li>
+	</ul>   
+ </li>
+ 
+ <li>
+   Transactions
+    <ul>
+	 <li>Accept Deposits</li>
+	 <li>Entry Expenses</li>
+	 <li>Transfers</li>
+	 <li>View Transactions</li>
+	 <li>Balance sheet</li>
+	</ul>   
+ </li>
+ 
+ <li>
+   Invoice & Quotes
    <ul>
-   <li>Transactions</li>
-   <li>Transaction by Member</li>
-   <li>Refund Funds</li>
-   <li>Transfer/Deposit Funds</li>
-   <li>Rollback Funds</li>
-   <li>Free Credit Requests</li>
+   <li>Invoices</li>
+   <li>Generate Invoice, Mail Invoice</li>
+   <li>Generate and manage Recurring Invoices</li>
+   <li>Customer quotations </li>
+   <li>Generate New Customer Quote</li>
    </ul>
  </li>
  <li>
-   Caller Numbers
+   Bank Accounts
    <ul>
-   <li>Assign Caller Number</li>
-   <li>Block Caller Number</li>
+   <li>Entry Bank Accounts</li>
+   <li>Account Balance</li>
    </ul>
  </li>
  <li>
-   Sender ID/Masking
+   Product & Services
    <ul>
-   <li>Approve/Terminate Sender ID</li>
-   <li>Re-Approve Sender ID</li>
+   <li>Generate and Manage Product</li>
+   <li>Generate and Manage Service</li>
    </ul>
  </li>
- <li>SMS History (Reports)</li>
+ 
  <li>
-   Promotions/Offers
+    Reports
    <ul>
-   <li>Sed Email Campaign </li>
-   <li>Send SMS Campaign</li>
+   <li>Income and Expenses Reports</li>
+   <li>Transactions Reports</li>
+   <li>Account Statements Reports</li>
    </ul>
  </li>
+ 
+ 
  <li>
-   Notifications
+   Utility
    <ul>
-   <li>Send Notification</li>
-   <li>All Notifications/report</li>
+   <li>Logs </li>
+   <li>Cronjob Logs</li>
+   <li>Email Logs</li>
    </ul>
  </li>
- <li>Enquires</li>
- <li>Geo Visitors</li>
- <li>
-   Master Account
-   <ul>
-   <li>Caller Number Lookup</li>
-   <li>Service Utility</li>
-   </ul>
- </li>
- <li>Mini CMS</li>
+  
+ <li>Account Management</li>
+  
  <li>
    Settings
    <ul>
-   <li>App/Site Settings</li>
+   <li>General Settings</li>
    <li>Payment Gateway</li>
-   <li>SMS/VoIP Gateway</li>
-   <li>Caller Numbers</li>
-   <li>SMS Pricing</li>
-   <li>Agent/Corporate SMS Pricing</li>
-   <li>Account Classes</li>
-   <li>Currency Settings</li>
-   <li>Metadata Settings</li>
+   <li>Income, Expenses Categories</li>
+   <li>Tags Management</li>
+   <li>Payment Methods</li>
+   <li>Sales and Taxing</li>
+   <li>Email/Template Settings</li>
+   <li>Permissions</li>
+   <li>APIs</li>
 
    </ul>
  </li>
- <li>Smart Notifications/Alerts</li>
- <li>Cron/Scheduling Jobs</li>
+ 
 </ul>
 </td>
 </tr>
@@ -140,31 +151,31 @@ FT campaigns are user friendly, customers promote their business using our long/
  <table>
  <tr>
  <td>
- <img src="images/client-login.png" alt="client login" width="200" height="200"/>
+ <img src="images/login.png" alt="login" width="200" height="200"/>
  </td>
  <td>
- <img src="images/client-dashboard.png" alt="client dashboard" width="200" height="200"/>
+ <img src="images/dashboard.png" alt="dashboard" width="200" height="200"/>
  </td>
   <td>
- <img src="images/client-account.png" alt="client account" width="200" height="200"/>
+ <img src="images/customer_invoice.png" alt="customer invoice" width="200" height="200"/>
  </td>
  <td>
- <img src="images/client-buy-number.png" alt="Buy number" width="200" height="200"/>
+ <img src="images/generate_invoice.png" alt="generate invoice" width="200" height="200"/>
  </td>
  </tr>
 
   <tr>
  <td>
- <img src="images/client-payment.png" alt="client payments" width="200" height="200"/>
+ <img src="images/payment_gateway.png" alt="payment gateway" width="200" height="200"/>
  </td>
  <td>
- <img src="images/api-agents.png" alt="api agents" width="200" height="200"/>
+ <img src="images/unpaid_invoice_customer_canpay_online.png" alt="pay online" width="200" height="200"/>
  </td>
   <td>
- <img src="images/admin.png" alt="admin" width="200" height="200"/>
+ <img src="images/report1.png" alt="report 1" width="200" height="200"/>
  </td>
  <td>
- <img src="images/members.png" alt="members" width="200" height="200"/>
+ <img src="images/report2.png" alt="report 2" width="200" height="200"/>
  </td>
  </tr>
  
