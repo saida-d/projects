@@ -154,28 +154,43 @@ URL : <a href="http://www.petroleumbrunei.com.bn/etenderuserguide.pdf">Click her
  <img src="images/login.png" alt="login" width="200" height="200"/>
  </td>
  <td>
- <img src="images/dashboard.png" alt="dashboard" width="200" height="200"/>
+ <img src="images/dashboard-1.png" alt="dashboard-1" width="200" height="200"/>
  </td>
   <td>
- <img src="images/customer_invoice.png" alt="customer invoice" width="200" height="200"/>
+ <img src="images/dashboard-2.png" alt="dashboard-2" width="200" height="200"/>
  </td>
  <td>
- <img src="images/generate_invoice.png" alt="generate invoice" width="200" height="200"/>
+ <img src="images/add_tender.png" alt="add tender" width="200" height="200"/>
  </td>
  </tr>
 
   <tr>
  <td>
- <img src="images/payment_gateway.png" alt="payment gateway" width="200" height="200"/>
+ <img src="images/add_tender-2.png" alt="add tender" width="200" height="200"/>
  </td>
  <td>
- <img src="images/unpaid_invoice_customer_canpay_online.png" alt="pay online" width="200" height="200"/>
+ <img src="images/add_bidder.png" alt="add bidder" width="200" height="200"/>
  </td>
   <td>
- <img src="images/report1.png" alt="report 1" width="200" height="200"/>
+ <img src="images/bidders.png" alt="bidders" width="200" height="200"/>
  </td>
  <td>
- <img src="images/report2.png" alt="report 2" width="200" height="200"/>
+ <img src="images/tender_dashboard.png" alt="tender dashboard" width="200" height="200"/>
+ </td>
+ </tr>
+ 
+  <tr>
+ <td>
+ <img src="images/tender_details.png" alt="tender details" width="200" height="200"/>
+ </td>
+ <td>
+ <img src="images/tender_submission.png" alt="tender submission" width="200" height="200"/>
+ </td>
+  <td>
+ <img src="images/tender_queries.png" alt="tender queries" width="200" height="200"/>
+ </td>
+ <td>
+ <img src="images/submission_details.png" alt="submission details" width="200" height="200"/>
  </td>
  </tr>
  
