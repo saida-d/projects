@@ -3,10 +3,10 @@ Latest works in details, please click on the links followed by project.
 
 <table>
  <tr>
- <td><h6>S.No</h6></td>
- <td><h6>Project Title</h6></td>
- <td><h6>Project Description</h6></td>
- <td><h6>Remarks</h6></td>
+ <td><h5>S.No</h5></td>
+ <td><h5>Project Title</h5></td>
+ <td><h5>Project Description</h5></td>
+ <td><h5>Remarks</h5></td>
  
  </tr>
  
