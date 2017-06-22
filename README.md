@@ -1,7 +1,7 @@
 # Projects
 Latest works in details, please click on the links followed by project.
 
-<table class="table table-striped">
+<table width="100%" class="table table-striped">
  <tr>
  <td><h4>S.No</h4></td>
  <td><h4>Project Title</h4></td>
