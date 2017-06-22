@@ -2,7 +2,7 @@
 <table class="table table-striped">
 <tr>
 <td>
-URL : Click here for <a href="http://www.petroleumbrunei.com.bn/etenderuserguide.pdf"> Bidder's Portal </a>
+URL : <a href="http://www.petroleumbrunei.com.bn/etenderuserguide.pdf">Click here</a> for  Bidder's Portal 
 </td>
 
 <td>
