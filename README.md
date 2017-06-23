@@ -38,6 +38,13 @@ Latest works in details, please click on the links followed by project.
  <td>Intranet access (System setup will be installed/configured in client's local network/infrastructure)</td>
  </tr>
  
+ <tr>
+ <td>5</td>
+ <td>EZHRMS - A Leave Management System</td>
+ <td><a href="https://github.com/saidasoft/projects/tree/master/ezhrms">Click here for details</a></td>
+ <td>&nbsp;</td>
+ </tr>
+ 
  
  
 </table>
