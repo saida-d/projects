@@ -19,7 +19,7 @@ Latest works in details, please click on the links followed by project.
  
  <tr>
  <td>2</td>
- <td>Mach Payments –A Gateway</td>
+ <td>Mach Payments –A Gateway to Process Payments</td>
  <td><a href="https://github.com/saidasoft/projects/tree/master/machpayments">Click here for details</a></td>
  <td>Currently ongoing</td>
  </tr>
