@@ -86,7 +86,7 @@ TMS has many other settings/permission options to control whole system.
 	   <ul>
 	   <li>Basic Information</li>
 	   <li>Manage SCE</li>
-	   <li>Manage Tender/Ad Documents (by FTP)</li>
+	   <li>Manage Tender/Ad Documents </li>
 	   </ul>
 	 </li>
 	 
