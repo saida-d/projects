@@ -77,12 +77,12 @@ TMS has many other settings/permission options to control whole system.
 	</ul>   
  </li>
  
- <li>Tender/Ad Categories (Add/Edit/Delete)</li>
+ <li> 
+   Tender/Ad Categories (Add/Edit/Delete)
+ </li>
  <li>
-   <h5>Tender/Ad Manager</h5>
-     
-	  
-	   <ul>
+ <h5>Tender/Ad Manager</h5>
+       <ul>
 	   <li>Post Tender/ad </li>
 	   <li>Basic Information</li>
 	   <li>Manage SCE</li>
