@@ -79,54 +79,54 @@ TMS has many other settings/permission options to control whole system.
  
  <li>Tender/Ad Categories (Add/Edit/Delete)</li>
  <li>
-   Tender/Ad Manager
-    <ul>
-	 <li>
-	   Post Tender/ad 
-	   <ol>
+   <h5>Tender/Ad Manager</h5>
+     
+	  
+	   <ul>
+	   <li>Post Tender/ad </li>
 	   <li>Basic Information</li>
 	   <li>Manage SCE</li>
 	   <li>Manage Tender/Ad Documents</li>
-	   </ol>
-	 </li>
-	 
-	 <li>
-	  Tender Dashboard
-	  <ol>
+	   </ul>
+ </li>	 
+ <li>
+	  <h5>Tender Dashboard</h5>
+	  <ul>
 	   <li>Bidder Invitations, Credentials</li>
 	   <li>Extend Update tender</li>
 	   <li>Manage TBS and SCE</li>
-	  </ol>
-	 </li>
+	  </ul>
+</li>
 	 
-	 <li>
-	   Tender Submission
-	  <ol>
+<li>
+	  <h5>Tender Submission</h5>
+	  <ul>
 	   <li>Media Document Management (including locking)</li>
 	   <li>Manage bidder submissions </li>
 	   <li>Manage Queries/Accept, Decline Responses</li>
-	  </ol>
+	  </ul>
 	 
-	 </li>
-	 <li>Tender Awarding</li>
-	</ul>   
- </li>
+</li>
+
+<li>Tender Awarding</li>
  
- <li>
+<li>
    Queries and Responses
    <ul>
    <li>Post a Response (followed by Tender)</li>
    <li>Queries/Response (multiple) management</li>
    </ul>
- </li>
- <li>
+</li>
+
+<li>
   Password Requests 
   <ul>
    <li>Request monitoring</li>
    <li>Generate and resend credentials (by Mail)</li>
    </ul>
- </li>
- <li>
+</li>
+
+<li>
   Notifications
    <ul>
    <li>Document change notifications</li>
@@ -138,25 +138,25 @@ TMS has many other settings/permission options to control whole system.
    <li>Query/response notifications </li>
    <li>User creation/update notifications </li>
    </ul>
- </li>
- <li>
+</li>
+
+<li>
    PB tools
    <ul>
    <li>Logcode manager</li>
    <li>Typecode management</li>
    <li>Mail manager</li>
    </ul>
- </li>
+</li>
  
- <li>
+<li>
     Reports
    <ul>
    <li>Tender/bidder reports </li>
    </ul>
- </li>
+</li>
  
- 
- <li>
+<li>
    Audit Logs
    <ul>
    <li>System logs </li>
@@ -165,9 +165,9 @@ TMS has many other settings/permission options to control whole system.
    </ul>
  </li>
   
- <li>Account Management</li>
+<li>Account Management</li>
   
- <li>
+<li>
    Settings
    <ul>
    <li>Group Settings</li>
@@ -175,10 +175,12 @@ TMS has many other settings/permission options to control whole system.
    <li>FTP Settings</li>
    <li>SMS Settings</li>
    </ul>
- </li>
- <li>Profile management</li>
- <li>Help documents</li>
+</li>
+
+<li>Profile management</li>
+<li>Help documents</li>
 </ul>
+
 </td>
 </tr>
 </table>
