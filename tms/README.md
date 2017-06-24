@@ -54,12 +54,12 @@ TMS has many other settings/permission options to control whole system.
  
 <ul>
  <li>Login Module</li>
- <li>Invoicing Module</li>
- <li>Online Payments (Credit/Debit Cards, Paypal)</li>
- <li>PDF,CSV Export facility</li>
- <li>Reports</li>
- <li>Profile/Password Management</li>
- <li>Notifications/Alerts</li>
+ <li>Download Tender Documents Module</li>
+ <li>Tender Submission</li>
+ <li>Tender Queries</li>
+ <li>Tender Participates</li>
+ <li>Profile/Password </li>
+ <li>Alerts/Notifications</li>
 </ul>
 </td>
  
