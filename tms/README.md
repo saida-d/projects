@@ -86,7 +86,7 @@ TMS has many other settings/permission options to control whole system.
 	   <ol>
 	   <li>Basic Information</li>
 	   <li>Manage SCE</li>
-	   <li>Manage Tender/Ad Documents </li>
+	   <li>Manage Tender/Ad Documents</li>
 	   </ol>
 	 </li>
 	 
@@ -104,7 +104,7 @@ TMS has many other settings/permission options to control whole system.
 	  <ol>
 	   <li>Media Document Management (including locking)</li>
 	   <li>Manage bidder submissions </li>
-	   <li>Manage Queries/Accept, Decline Responses </li>
+	   <li>Manage Queries/Accept, Decline Responses</li>
 	  </ol>
 	 
 	 </li>
