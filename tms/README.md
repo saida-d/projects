@@ -89,17 +89,18 @@ TMS has many other settings/permission options to control whole system.
 	   <li>Manage Tender/Ad Documents (by FTP)</li>
 	   </ul>
 	 </li>
+	 
 	 <li>
 	  Tender Dashboard
 	  <ul>
 	   <li>Bidder Invitations, Credentials</li>
 	   <li>Extend Update tender</li>
-	   <li>Manage TBS/SCE</li>
+	   <li>Manage TBS and SCE</li>
 	  </ul>
-	 
 	 </li>
+	 
 	 <li>
-	 Tender Submission
+	   Tender Submission
 	  <ul>
 	   <li>Media Document Management (including locking)</li>
 	   <li>Manage bidder submissions </li>
