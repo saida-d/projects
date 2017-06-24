@@ -83,29 +83,29 @@ TMS has many other settings/permission options to control whole system.
     <ul>
 	 <li>
 	   Post Tender/ad 
-	   <ul>
+	   <ol>
 	   <li>Basic Information</li>
 	   <li>Manage SCE</li>
 	   <li>Manage Tender/Ad Documents </li>
-	   </ul>
+	   </ol>
 	 </li>
 	 
 	 <li>
 	  Tender Dashboard
-	  <ul>
+	  <ol>
 	   <li>Bidder Invitations, Credentials</li>
 	   <li>Extend Update tender</li>
 	   <li>Manage TBS and SCE</li>
-	  </ul>
+	  </ol>
 	 </li>
 	 
 	 <li>
 	   Tender Submission
-	  <ul>
+	  <ol>
 	   <li>Media Document Management (including locking)</li>
 	   <li>Manage bidder submissions </li>
 	   <li>Manage Queries/Accept, Decline Responses </li>
-	  </ul>
+	  </ol>
 	 
 	 </li>
 	 <li>Tender Awarding</li>
