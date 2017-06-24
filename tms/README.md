@@ -65,70 +65,102 @@ TMS has many other settings/permission options to control whole system.
  
 <td>
 <ul>
- <li>Users</li>
- <li>User Groups</li>
+ <li>Users (Add/Edit/Delete)</li>
+ <li>User Groups (Add/Edit/Delete)</li>
  <li>
-   Customers (Add/Edit/Delete), All Customers/Details Logs 
+   Bidders (Add/Edit/Delete)
     <ul>
-	 <li>Activate/Deactivate Customer</li>
-	 <li>Assigning Group/Login Credentials</li>
-	 <li>Monitoring Invoices</li>
-	 <li>Search, Export/Import Customers</li>
+	 <li>Activate/Deactivate Bidder</li>
+	 <li>Bidder's Tender History </li>
+	 <li>Bidder's Media (FTP Documents)</li>
+	 <li>Search/Export/Import Bidder</li>
+	</ul>   
+ </li>
+ 
+ <li>Tender/Ad Categories (Add/Edit/Delete)</li>
+ <li>
+   Tender/Ad Manager
+    <ul>
+	 <li>
+	   Post Tender/ad 
+	   <ul>
+	   <li>Basic Information</li>
+	   <li>Manage SCE</li>
+	   <li>Manage Tender/Ad Documents (by FTP)</li>
+	   </ul>
+	 </li>
+	 <li>
+	  Tender Dashboard
+	  <ul>
+	   <li>Bidder Invitations, Credentials</li>
+	   <li>Extend Update tender</li>
+	   <li>Manage TBS/SCE</li>
+	  </ul>
+	 
+	 </li>
+	 <li>
+	 Tender Submission
+	  <ul>
+	   <li>Media Document Management (including locking)</li>
+	   <li>Manage bidder submissions </li>
+	   <li>Manage Queries/Accept, Decline Responses </li>
+	  </ul>
+	 
+	 </li>
+	 <li>Tender Awarding</li>
 	</ul>   
  </li>
  
  <li>
-   Transactions
-    <ul>
-	 <li>Accept Deposits</li>
-	 <li>Entry Expenses</li>
-	 <li>Transfers</li>
-	 <li>View Transactions</li>
-	 <li>Balance sheet</li>
-	</ul>   
- </li>
- 
- <li>
-   Invoice & Quotes
+   Queries and Responses
    <ul>
-   <li>Invoices</li>
-   <li>Generate Invoice, Mail Invoice</li>
-   <li>Generate and manage Recurring Invoices</li>
-   <li>Customer quotations </li>
-   <li>Generate New Customer Quote</li>
+   <li>Post a Response (followed by Tender)</li>
+   <li>Queries/Response (multiple) management</li>
    </ul>
  </li>
  <li>
-   Bank Accounts
-   <ul>
-   <li>Entry Bank Accounts</li>
-   <li>Account Balance</li>
+  Password Requests 
+  <ul>
+   <li>Request monitoring</li>
+   <li>Generate and resend credentials (by Mail)</li>
    </ul>
  </li>
  <li>
-   Product & Services
+  Notifications
    <ul>
-   <li>Generate and Manage Product</li>
-   <li>Generate and Manage Service</li>
+   <li>Document change notifications</li>
+   <li>General Notifications</li>
+   <li>Tender extended </li>
+   <li>Tender cancellation </li>
+   <li>Tender invitations </li>
+   <li>Document download notifications </li>
+   <li>Query/response notifications </li>
+   <li>User creation/update notifications </li>
+   </ul>
+ </li>
+ <li>
+   PB tools
+   <ul>
+   <li>Logcode manager</li>
+   <li>Typecode management</li>
+   <li>Mail manager</li>
    </ul>
  </li>
  
  <li>
     Reports
    <ul>
-   <li>Income and Expenses Reports</li>
-   <li>Transactions Reports</li>
-   <li>Account Statements Reports</li>
+   <li>Tender/bidder reports </li>
    </ul>
  </li>
  
  
  <li>
-   Utility
+   Audit Logs
    <ul>
-   <li>Logs </li>
-   <li>Cronjob Logs</li>
-   <li>Email Logs</li>
+   <li>System logs </li>
+   <li>Latest Logs</li>
+   <li>All Logs</li>
    </ul>
  </li>
   
@@ -137,19 +169,14 @@ TMS has many other settings/permission options to control whole system.
  <li>
    Settings
    <ul>
-   <li>General Settings</li>
-   <li>Payment Gateway</li>
-   <li>Income, Expenses Categories</li>
-   <li>Tags Management</li>
-   <li>Payment Methods</li>
-   <li>Sales and Taxing</li>
-   <li>Email/Template Settings</li>
-   <li>Permissions</li>
-   <li>APIs</li>
-
+   <li>Group Settings</li>
+   <li>Email Settings</li>
+   <li>FTP Settings</li>
+   <li>SMS Settings</li>
    </ul>
  </li>
- 
+ <li>Profile management</li>
+ <li>Help documents</li>
 </ul>
 </td>
 </tr>
