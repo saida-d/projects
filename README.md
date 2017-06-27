@@ -45,6 +45,13 @@ Latest works in details, please click on the links followed by project.
  <td>&nbsp;</td>
  </tr>
  
+ <tr>
+ <td>6</td>
+ <td>Kiosk Information System </td>
+ <td><a href="https://github.com/saidasoft/projects/tree/master/ezhrms">Click here for details</a></td>
+ <td>&nbsp;</td>
+ </tr>
+ 
  
  
 </table>
