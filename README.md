@@ -52,6 +52,13 @@ Latest works in details, please click on the links followed by project.
  <td>Desktop Kiosk System (with Touch screen)</td>
  </tr>
  
+ <tr>
+ <td>7</td>
+ <td>Ministry of Finance (MoF) - Official Web Portal</td>
+ <td><a href="https://github.com/saidasoft/projects/tree/master/mof">Click here for details</a></td>
+ <td>&nbsp;</td>
+ </tr>
+ 
  
  
 </table>
