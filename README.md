@@ -67,6 +67,15 @@ Latest works in details, please click on the links followed by project.
  <td>.BN domains only</td>
  </tr>
  
+ <tr>
+ <td>9</td>
+ <td>PIB Library And Digital Portal  - Perpustakaan Islam Brunei Darussalam (PIB)</td>
+ <td>
+	<a href="https://github.com/saidasoft/projects/tree/master/pib">Click here for details</a>
+ </td>
+ <td> A department of Prime Minister Office (PMO) Brunei Darussalam</td>
+ </tr>
+ 
  
  
 </table>
