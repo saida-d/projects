@@ -13,48 +13,96 @@
 
 <h3>Description :</h3>
 <ul>
-<li>BNNIC Registry & Registrar portal ,whole project is developed for Authority for Info-communications Technology Industry (AITI), Brunei Darussalam.</li>
-<li>The main intension of BNNIC is to control all ".bn" (TLD) domains.</li>
-<li>If customers are looking for .bn (e.g www.domain.bn, www.domain.com.bn, ... .edu.bn, .net.bn, .org.bn) then they have to go 
-through with BNNIC directly or customers can contact BNNIC's official registrars. </li>
-<li>Before customer book their (.bn) domain they can check availability from BNNIC's portal.</li>
-<li>Pricing and Other information will be displyed on BNNIC's portal.</li>
+<li>PIB Library And Digital Portal Divied into three portals.
+   <ul>
+    <li>1. PIB Main Portal </li>
+	<li>2. PIB Digital Collection Management System </li>
+	<li>3. PIB Library Catalog </li>
+	
+   </ul>
+</li>
+ 
+<li>
+ PIB the biggest project in experience, the project cost is closely $B4 Million. 
+ I proudly say i worked as a single man show for this project (To develop two complete main portals and
+ collaboration work with Library Catalog), with multiple dedicated servers (Hosting/DNS/SSL etc) management. 
+ 
+</li>
+<li>
+ PIB agenda to bring library and digital media into Online.
+</li> 
 </ul>
 
-<h3>About BNNIC's Registrar Portal:</h3>
+<h3>1. Why PIB Main Portal:</h3>
 <ul>
  <li>
-  BNNIC has seperate portal for Registrar services, where every registrars can register their business with BNNIC and start selling domains officially.
+   PIB main portal divided into multple components. 
+   As a student or end user every request have to pass by this portal. 
  </li>
  <li>
-   Its like official master account for domain sales.
+   In other words PIB main portal is main door to access all other functionalities.
  </li>
  <li>
-  Pricing and terms are displyed in BNNIC's portal.
+   PIB has collaboration with PIB Digital System and Library Catalog
+ </li>
+  <li>
+   As a student/user to access PIB portal's dashboard user need a common (unique) account id/credentials where it was issued by PIB Library Administrator.
+ </li>
+ <li>
+  Once PIB adminstrator issued credentials respective user can logon to PIB account, as mentioed its a common account for all portals (running on custom SSO).
+ </li>
+ <li>
+  On PIB user/student can get all information about Library. Besides that user/student can book terminal booking (Browsing Centre) slots through online.
+ </li>
+ <li>
+ PIB also offers Room Booking system (PIB Library Area only), for meetings/discussions. Here user must pay rental for room through PIB counter. 
+ Upon payment confirmation user reservation will be confirmed.
+ </li>
+ 
+ <li>
+  PIB also offering digital document search on PIB main portal, users can search desired collections on PIB main portal.
+ </li>
+ 
+ <li>
+  PIB also displays student's books (barrowed, overdue, payment) information on PIB's dashboard.
  </li>
 </ul>
 
-<h3>About BNNIC's Registry Portal:</h3>
+<h3>2. Why PIB Digital Collection Management System :</h3>
 <ul>
  <li>
-  BNNIC also has seperate portal for registry services, 
-  where every registry can register their business with authorized registrars.
+  At first to access PIBDCMS user/student must logon from PIB main portal.
+  
  </li>
  <li>
-   Its like official agent/reseller account for domain sales.
+   If user/student only looking for information they can view respective information on PIBDCMS end user portal (No login is required here). 
  </li>
  <li>
-  Pricing and terms are displyed in BNNIC's portal.
+  PIBDCMS holds all OCR/Scan Digital collections followed by different genres. 
+ </li>
+  <li>
+  All OCR/Scan can be done offline and uploaded to PIBDCMS (by admin/staff).
+ </li>
+ 
+ <li>
+  PIBDCMS also offering digital collections in different languages (Arabic,English,Malay).
+ </li>
+ 
+ <li>
+  If student/user can download (or) read digital document through online (depends on permissions).
  </li>
 </ul>
 
-<h3>About BNNIC's Infrastructure:</h3>
+<h3>PIB Library Catalog:</h3>
 <ul>
  <li>
-  BNNIC has its own Infrastructure (VMs) to maintain all domain services.
+  PIB Library catalog will displays all available books through online.
  </li>
  <li>
-   BNNIC's Infrastructure is highly secured and stable.
+  Student/user can barrow book through online and respective information will be sync to PIB main portal's dashboard.
+ </li>
+ <li>
+  PIB Library database has special permissions (readonly) interms of collaboration.
  </li>
  
 </ul>
