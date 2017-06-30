@@ -76,6 +76,15 @@ Latest works in details, please click on the links followed by project.
  <td> A department of Prime Minister Office (PMO) Brunei Darussalam</td>
  </tr>
  
+ <tr>
+ <td>10</td>
+ <td>Hoysala Projects  </td>
+ <td>
+	<a href="https://github.com/saidasoft/projects/tree/master/hoysala">Click here for details</a>
+ </td>
+ <td> &nbsp;</td>
+ </tr>
+ 
  
  
 </table>
